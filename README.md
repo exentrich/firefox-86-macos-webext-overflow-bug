@@ -5,4 +5,4 @@ Here what happening:
 - each of this div`s have a `overflow: auto`
 - scroll works for first div, but doesn't for second
 
-[bug]: https://github.com/exentrich/firefox-86-macos-webext-overflow-bug/raw/master/bug.png "bug"
+![alt text](https://github.com/exentrich/firefox-86-macos-webext-overflow-bug/raw/master/bug.png "bug")
