@@ -1,0 +1,22 @@
+html, body {
+  width: 600px;
+  height: 600px;
+  margin: 0;
+}
+
+.flex {
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+}
+
+.overflow {
+  flex: 1;
+  overflow: auto;
+  height: 100vh;
+}
+
+.overflow div {
+  height: 10000px;
+}
