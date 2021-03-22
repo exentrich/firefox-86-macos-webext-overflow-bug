@@ -14,6 +14,7 @@ html, body {
 .overflow {
   flex: 1;
   overflow: auto;
+  will-change: scroll-position;
   height: 100vh;
 }
 
